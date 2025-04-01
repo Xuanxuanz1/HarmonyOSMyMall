@@ -1,0 +1,16 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "bg_color",
+      "value": "#f1f3f5"
+    },
+    {
+      "name": "GuideTitleColor",
+      "value": "#66000000"
+    }
+  ]
+}
