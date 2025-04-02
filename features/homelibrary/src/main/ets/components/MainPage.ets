@@ -47,7 +47,7 @@ import {BaseConstants,BreakPointConstants} from "@ohos/common"
   .margin({top:20})
   .displayCount(currentBreakpoint === BreakPointConstants.BREAKPOINT_LG ? 3
     : currentBreakpoint === BreakPointConstants.BREAKPOINT_MD ? 2
-    :1
+    : 1
   )
 }
 
