@@ -63,7 +63,7 @@
     },
     {
       "name": "homelibrary",
-      "srcPath": "./features/homelibrary",
+      "srcPath": "./features/homelibrary"
     },
     {
       "name": "orderlibrary",

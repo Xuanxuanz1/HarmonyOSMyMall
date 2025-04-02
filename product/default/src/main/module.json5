@@ -6,7 +6,7 @@
     "mainElement": "EntryAbility",
     "requestPermissions": [
       {
-        "name": "ohos.permission.INTERNET"
+        "name": "ohos.permission.INTERNET" //配置网络权限
       }
     ],
     "deviceTypes": [
